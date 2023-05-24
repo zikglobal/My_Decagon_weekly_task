@@ -1,0 +1,15 @@
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\bin\Debug\net6.0\Generic Classes.exe
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\bin\Debug\net6.0\Generic Classes.deps.json
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\bin\Debug\net6.0\Generic Classes.runtimeconfig.json
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\bin\Debug\net6.0\Generic Classes.dll
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\bin\Debug\net6.0\Generic Classes.pdb
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.dll
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\refint\Generic Classes.dll
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.pdb
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\Generic Classes.genruntimeconfig.cache
+C:\Users\Decagon Laptop\Desktop\Decagon Tasks\week 2\Generic Classes\Generic Classes\obj\Debug\net6.0\ref\Generic Classes.dll
