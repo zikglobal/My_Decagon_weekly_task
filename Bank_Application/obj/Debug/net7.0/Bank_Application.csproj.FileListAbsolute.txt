@@ -1,0 +1,15 @@
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\bin\Debug\net7.0\Bank_Application.exe
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\bin\Debug\net7.0\Bank_Application.deps.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\bin\Debug\net7.0\Bank_Application.runtimeconfig.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\bin\Debug\net7.0\Bank_Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\bin\Debug\net7.0\Bank_Application.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\refint\Bank_Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\Bank_Application.genruntimeconfig.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\Bank_Application\obj\Debug\net7.0\ref\Bank_Application.dll
