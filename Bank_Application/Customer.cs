@@ -6,18 +6,35 @@ using System.Threading.Tasks;
 
 namespace Bank_Application
 {
-    internal class Customer
+     class Customer
     {
-        public string Fullname { get; set; }
-        public string Email { get; set; }
-        public string Password{ get; set; }
+        public string Name { get; }
+        public string Email { get; }
+        public string Password { get; }
 
+        
 
-        public Customer( string fullname, string email, string  password )
+        private List<BankAccount> accounts = new List<BankAccount>();
+
+        public Customer(string name, string email, string password)
         {
-            Fullname = fullname;
+            Name = name;
             Email = email;
             Password = password;
-        } 
+        }
+        public bool ValidatePassword(string password)
+        {
+            return Password == password;
+        }
+
+        public void AddAccount(BankAccount account)
+        {
+            accounts.Add(account);
+        }
+
+        public BankAccount GetAccount(string accountNumber)
+        {
+            return accounts.Find(a => a.AccountNumber == accountNumber);
+        }
     }
 }
