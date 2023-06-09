@@ -45,12 +45,22 @@ namespace Bank_App.Core.implementation
         public void Register(RegisterDto register)
         {
             user = new User
+
+            
             {
                 Email = register.EmailAddress,
                 PasswordHash = register.Password,
                 FirstName = register.FirstName,
                 LastName = register.LastName,
+
+            
             };
+            using (StreamWriter writer = new StreamWriter("RegisterData.txt", true))
+            {
+                writer.WriteLine($"|  {user.FirstName}| {user.LastName}|{user.Email}  |{user.PasswordHash}|");
+               // writer.WriteLine($"|    {user.}   |   {}   |    {}    |    {user.Email}");
+                Console.WriteLine("user added to file");
+            }
             // Console.WriteLine("\n Welcome to the registeration portal");
 
             /* var reg = new RegisterDto();

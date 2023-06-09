@@ -69,14 +69,14 @@ namespace Bank_App.Core.Implementation
                 //  DisplayTable.DisplayAllTables();
 
             }
-            else if (option == "6")
+           /* else if (option == "6")
             {
                 _accountService.DisplayAllTables();
                 MainMenu();
 
                 //   WelcomePage();
                 //  Console.WriteLine("Below is your account details");
-            }
+            }*/
             else if (option == "7")
             {
                 Console.WriteLine("Thank you for Banking with us");

@@ -18,13 +18,13 @@ namespace Bank_App.Core.Implementation
             Console.WriteLine($"Please Enter your Account Number");
             AcctNumber = Console.ReadLine();
 
-            foreach (Account account in CreateAccountService.allAccounts)
+          /*  foreach (Account account in CreateAccountService.)
             {
                 if (account.AccountNumber == AcctNumber)
                 {
                     Console.WriteLine($"Your balance for account number {AcctNumber} is {account.AccountBalance}");
                 }
-            }
+            }*/
         }
         public void Deposit()
         {
@@ -36,7 +36,7 @@ namespace Bank_App.Core.Implementation
             Console.WriteLine("Enter the amount to deposit");
             decimal deposit = Decimal.Parse(Console.ReadLine());
 
-            foreach (Account account in CreateAccountService.allAccounts)
+           /* foreach (Account account in CreateAccountService.allAccounts)
             {
                 if (AcctNumber == account.AccountNumber)
                 {
@@ -48,7 +48,7 @@ namespace Bank_App.Core.Implementation
                     Deposit();
                 }
 
-            }
+            }*/
         }
         public void Withdraw()
         {
@@ -59,7 +59,7 @@ namespace Bank_App.Core.Implementation
             Console.WriteLine("Enter the amount you want to Withdraw");
             decimal withdraw = Decimal.Parse(Console.ReadLine());
 
-            foreach (Account account in CreateAccountService.allAccounts)
+          /*  foreach (Account account in CreateAccountService.allAccounts)
             {
                 if (account.AccountNumber == AcctNumber)
                 {
@@ -70,7 +70,7 @@ namespace Bank_App.Core.Implementation
                 {
                     Withdraw();
                 }
-            }
+            }*/
         }
         public void Transfer()
         {
@@ -86,7 +86,7 @@ namespace Bank_App.Core.Implementation
             Console.WriteLine("Enter beneficiary account number");
            var transferAccount = Console.ReadLine();
 
-            foreach (Account account in CreateAccountService.allAccounts)
+          /*  foreach (Account account in CreateAccountService.allAccounts)
             {
                 if (sourceAccount != null && transferAccount != null && amountTransfer >1000)
                 {
@@ -101,11 +101,12 @@ namespace Bank_App.Core.Implementation
                     Transfer();
 
                 }
-            }
+            }*/
         }
-        public void DisplayAllTables()
+      /*  public void DisplayAllTables()
         {
             Console.Clear();
+           
             string allprints = "";
             foreach (Account account  in CreateAccountService.allAccounts)
             {
@@ -116,7 +117,7 @@ namespace Bank_App.Core.Implementation
             Console.WriteLine("|--------------------|------------------|--------------------|----------------------|");
             Console.WriteLine(allprints);
             Console.WriteLine("------------------------------------------------------------------------------------");
-        }
+        }*/
 
     }
 

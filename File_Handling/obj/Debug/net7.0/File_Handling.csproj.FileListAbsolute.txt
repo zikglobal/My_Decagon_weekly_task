@@ -1,0 +1,15 @@
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\bin\Debug\net7.0\File_Handling.exe
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\bin\Debug\net7.0\File_Handling.deps.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\bin\Debug\net7.0\File_Handling.runtimeconfig.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\bin\Debug\net7.0\File_Handling.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\bin\Debug\net7.0\File_Handling.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\refint\File_Handling.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\File_Handling.genruntimeconfig.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\File_Handling\obj\Debug\net7.0\ref\File_Handling.dll

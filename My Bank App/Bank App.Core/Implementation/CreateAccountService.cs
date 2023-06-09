@@ -10,7 +10,7 @@ namespace Bank_App.Core.Implementation
 {
     public class CreateAccountService : ICreateAccountService
     {
-        public static List<Account> allAccounts = new List<Account>();
+        
         public void CreateAccount()
         {
 
@@ -33,7 +33,12 @@ namespace Bank_App.Core.Implementation
                     AccountType = AccountType.Current,
                     FullName = user.FirstName + " " + user.LastName,
                 };
-                allAccounts.Add(account);
+                using (StreamWriter writer = new StreamWriter("AccountData.txt", true))
+                {
+                    writer.WriteLine($"|  {user.FirstName}| {user.LastName}|{account.AccountNumber}  |{account.AccountBalance}|{account.AccountType}");
+                    // writer.WriteLine($"|    {user.}   |   {}   |    {}    |    {user.Email}");
+                    Console.WriteLine("user added to file");
+                }
                 Console.WriteLine($"Your Current Account number is: {accountnumber}");
                 Console.WriteLine($"Your current account balance is: {account.AccountBalance}");
 
@@ -54,7 +59,12 @@ namespace Bank_App.Core.Implementation
                     AccountType = AccountType.Savings,
                     FullName = user2.FirstName + " " + user2.LastName,
                 };
-                allAccounts.Add(account);
+                using (StreamWriter writer = new StreamWriter("AccountData.txt", true))
+                {
+                    writer.WriteLine($"|  {user2.FirstName}| {user2.LastName}|{account.AccountNumber}  |{account.AccountBalance}|{account.AccountType}");
+                    // writer.WriteLine($"|    {user.}   |   {}   |    {}    |    {user.Email}");
+                    Console.WriteLine("user added to file");
+                }
                 Console.WriteLine($"Your Saving Account number is: {accountnumber}");
                 Console.WriteLine($"Your savings account balance is : {account.AccountBalance}");
             }

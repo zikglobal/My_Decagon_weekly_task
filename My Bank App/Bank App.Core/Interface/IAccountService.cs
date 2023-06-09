@@ -6,6 +6,6 @@
         void Deposit();
         void Transfer();
         void Withdraw();
-        void DisplayAllTables();
+       // void DisplayAllTables();
     }
 }
