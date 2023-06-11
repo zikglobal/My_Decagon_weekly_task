@@ -19,6 +19,9 @@ namespace Bank_Application
 
         public void Run ()
         {
+            Console.WriteLine("******* Welcome to Zik_Global Bank *******");
+
+
             Console.WriteLine("Enter 1 to Register");
             Console.WriteLine("Enter 2 to Login");
             Console.WriteLine("Enter 3 to Logout");

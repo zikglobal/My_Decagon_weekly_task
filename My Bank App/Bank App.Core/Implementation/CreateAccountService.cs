@@ -35,7 +35,7 @@ namespace Bank_App.Core.Implementation
                 };
                 using (StreamWriter writer = new StreamWriter("AccountData.txt", true))
                 {
-                    writer.WriteLine($"|  {user.FirstName}| {user.LastName}|{account.AccountNumber}  |{account.AccountBalance}|{account.AccountType}");
+                    writer.WriteLine($"|{account.AccountNumber}  |{account.AccountBalance}|{account.AccountType}");
                     // writer.WriteLine($"|    {user.}   |   {}   |    {}    |    {user.Email}");
                     Console.WriteLine("user added to file");
                 }
